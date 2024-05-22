@@ -1,5 +1,5 @@
 
-![Wiggle Logo](/src/logo.svg)
+![Wiggle Logo](/src/wiggle.png)
 
 # Wiggle
 
